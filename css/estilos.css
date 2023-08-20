@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24;
     color: rgb(21, 226, 21);
     text-align: center;
     font-family: 'Times New Roman';
@@ -11,6 +12,10 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 #cbecera{
     background: rgb(51, 156, 170);
@@ -29,4 +34,14 @@ body
 }
 #container h1{
     font-size: 20px;
+}
+#post{
+    background: white;
+    padding: 1em;
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
