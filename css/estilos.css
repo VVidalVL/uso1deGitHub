@@ -1,8 +1,9 @@
 body
 {
-    color: rgb(32, 32, 36);
+    background: #1e1f24;
+    color: rgb(21, 226, 21);
     text-align: center;
-    font-family: 'arial';
+    font-family: 'Times New Roman';
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -12,10 +13,14 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
+}
 #cbecera{
-    background: rgb(51, 170, 124);
+    background: rgb(51, 156, 170);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.0.5);
-    color: rgb(226, 185, 185);
+    color: rgb(145, 132, 132);
     font-weight: bold;
     margin: 0;
     padding: 0,5em;
@@ -24,9 +29,19 @@ body
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid #DDD;
+    border: 1px solid #d4cfd3;
     margin: 0 auto;
 }
 #container h1{
     font-size: 20px;
+}
+#post{
+    background: white;
+    padding: 1em;
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
