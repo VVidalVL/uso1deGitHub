@@ -10,5 +10,11 @@ avanzando
 empezamos armaando gitHus para progrmacion
 lo lograremos
 
+<<<<<<< HEAD
 Master 1
 Master 2
+=======
+experimento 1
+experimento 2
+Master 1
+>>>>>>> 5507011 (exp 2)
